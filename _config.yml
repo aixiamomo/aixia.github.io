@@ -4,7 +4,7 @@ header-img: "img/autumn2.jpg"
 tagline: "爱夏"  
 description: "还有二十来岁遇见的她。"  
 baseurl: ""
-url: "http://azeril.me"  
+url: "http://aixia.me"  
 #url: "http://localhost:4000"
 
 # About/contact
@@ -22,7 +22,7 @@ twitter_username:
 github_username: aixiamomo  
 facebook_username:   
 weibo_username: 爱夏手作-石榴石  
-zhihu_username: 爱夏  
+zhihu_username: suki-98-29  
 
 # Build settings  
 # use Github Flavored Markdown !important  
